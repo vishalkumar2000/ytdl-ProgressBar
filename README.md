@@ -1,6 +1,6 @@
 # ytdl-core-ProgressBar
-Firstly install node module package :- ( npm i ytdl-core ) and (npm i progressbar)
-For Downloading video in high quality:- Update ytdl-core to the latest version ( npm install ytdl-core@latest )
+1. Firstly install node module package : ( npm i ytdl-core ) and (npm i progressbar)
+2. For Downloading video in high quality:- Update ytdl-core to the latest version ( npm install ytdl-core@latest )
 
 # Limitations
 ytdl cannot download videos that fall into the following:
